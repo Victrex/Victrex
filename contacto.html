@@ -5,8 +5,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="css/nav.css">
     <link rel="stylesheet" href="css/style.css">
-    <link rel="shortcut icon" href="images/ICONO-02.png" type="image/x-icon">
+    
+<link rel="shortcut icon" href="images/ICONO-02.png" type="image/x-icon">
+     
     <link rel="stylesheet" href="css/contact.css">
+    
     <title>Contacto</title>
 </head>
 <body>
@@ -24,8 +27,7 @@
 
 
     <!--CONTENIDO-->
-    <div class="contacto">
-        <h1> Contacto</h1>
+    <div class="contact_form">
         <div class="contact-contenido">
             <div class="info">
                 <div class="col">
@@ -41,18 +43,43 @@
                     <p>(504) 9500-1170</p>
                 </div>
                 <div class="col">
-                    <p><img src="images/LOGO.svg" style="width: 250px;" alt=""></p>
+                    <p><img src="images/LOGO.svg"  alt=""></p>
                 </div>
             </div>
-            <form action="" method="GET" class="formulario">
-
-                <input type="text" name="nombre" placeholder="Nombre" id="nombre">
-                <input type="text" name="correo" placeholder="Correo Electronico" id="correo">
-                <input type="text" name="asunto" placeholder="Asunto" id="asunto">
-                <textarea name="mensaje" id="mensaje" placeholder="Mensaje"></textarea>
-                <button type="button">Enviar</button>
+        <div class="formulario">
+            <center><h1>Contáctenos</h1></center><br>			
+            <form>				
+                <p>
+                <label for="nombre" class="colocar_nombre">Nombre
+                    <span class="obligatorio">*</span>
+                    <br>
+                </label>
+                <input type="text" name="introducir_nombre" id="nombre" required="obligatorio" placeholder="Escribe tu nombre">
+                </p>
+                <p>
+                    <label for="email" class="colocar_email">Email
+                        <span class="obligatorio">*</span>
+                        <br>
+                    </label>
+                    <input type="email" name="introducir_email" id="email" required="obligatorio" placeholder="Escribe tu Email">
+                </p>		
+                <p>
+                    <label for="asunto" class="colocar_asunto">Asunto
+                        <span class="obligatorio">*</span>
+                        <br>
+                    </label>
+                    <input type="text" name="introducir_asunto" id="assunto" required="obligatorio" placeholder="Escribe un asunto">
+                </p>		
+                <p>
+                    <label for="mensaje" class="colocar_mensaje">Mensaje
+                        <span class="obligatorio">*</span>
+                        <br>
+                    </label>                     
+                    <textarea name="introducir_mensaje" class="texto_mensaje" id="mensaje" required="obligatorio" placeholder="Deja aquí tu comentario..."></textarea> 
+                </p>	  								
+                <button name="enviar_formulario" class="button_primary" id="enviar"><p>Enviar</p></button>					
             </form>
-        </div>
-    </div>   
+        </div>	
+    </div>  
     </body>
     </html>
