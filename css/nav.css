@@ -1,0 +1,37 @@
+.nav{
+    width: 100%;
+    background: #000012;
+    overflow: hidden;
+}
+.nav .main_menu{
+    list-style: none;
+    background-color: #000012;
+}
+.nav ul.main_menu>li{
+    padding: 1em;
+    width: 8%;
+    float: left;
+}
+.nav .main_menu>li>a{
+    font-size: 1em;
+    font-family: -apple-system, BlinkMacSystemFont, 'Gotham Bold', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-decoration: none;
+    color: aliceblue;
+    font-weight: bold;
+}
+.nav .main_menu>li:hover{
+    background-color: #04011f;
+}
+.nav2{
+    padding: 0.4em;
+
+    float: right;
+}
+.logo-blanco{
+width: 45px;
+}
+@media screen and (max-width: 480px){
+    .nav ul.main_menu>li{
+        padding: 1.3em;
+    }
+}
