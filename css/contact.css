@@ -146,7 +146,7 @@ body{
 
     .info{
         width: 90%;
-        position: fixed;
+        position: absolute;
         transform: translateY(600px);
         display: inline-block;
     }
