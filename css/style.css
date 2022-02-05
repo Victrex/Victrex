@@ -17,7 +17,7 @@ img.modelo1{
     float: left;
     padding: 0px;
     margin: 0px;
-    width: 25em;
+    width: 550px;
 
 }
 
@@ -28,7 +28,10 @@ img.modelo1{
     padding: 0px;
     position: relative;
     text-align: justify;
-    width: 25em;
+    width: 45em;
+}
+div.info-personal p.desc{
+    font-size: 1.5em;
 }
 
 div.linea{
@@ -37,7 +40,7 @@ div.linea{
     background-color: #000012;
     position: relative;
     height: 5px;
-    width: 100em;
+    width: 100%;
     overflow: hidden;
 }
 /*PORTAFOLIO*/
@@ -190,3 +193,37 @@ ul li img{
     color: #3498db;
 }
 
+iframe{
+    width: 90%;
+    height: 90vh;
+}
+@media only screen and (max-width:800px) {
+    div.info-personal p.desc{
+        font-size: 1.5em;
+    }
+    #acerca{
+        align-content: center;
+        display: inline-flex;
+        flex-wrap: wrap;
+        width: 100%;
+        overflow: hidden;
+        background-color: #cfcfcf;
+    
+    }
+    img.modelo1{
+        float: left;
+        padding: 0px;
+        margin: 0px;
+        width: 100%;
+        bottom: 0px;
+    }
+    
+    .info-personal{
+        color: #000012;
+        margin: 20px;
+        padding: 0px;
+        position: relative;
+        text-align: justify;
+        width: 90%;
+    }
+}
