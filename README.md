@@ -7,6 +7,7 @@
 Tecgnologies I usually use
 
 🍕 FrontEnd 
+
   JavaScript Vanilla |
   GSAP Library |
   React |
@@ -15,12 +16,14 @@ Tecgnologies I usually use
 
 
 🔒 BackEnd
+
   NodeJS |
   TypeScript |
   Java Springboot |
   Laravel PHP |
 
 💣 DataBases
+
   Microsoft SQL SERVER |
   MySQL |
   MongoDB |
