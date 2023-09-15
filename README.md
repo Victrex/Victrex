@@ -6,24 +6,24 @@
 
 Tecgnologies I usually use
 
-🍕 FrontEnd
-  JavaScript Vanilla
-  GSAP Library
-  React
-  HTML
+🍕 FrontEnd 
+  JavaScript Vanilla |
+  GSAP Library |
+  React |
+  HTML |
   CSS
 
 
 🔒 BackEnd
-  NodeJS
-  TypeScript
-  Java Springboot
-  Laravel PHP
+  NodeJS |
+  TypeScript |
+  Java Springboot |
+  Laravel PHP |
 
 💣 DataBases
-  Microsoft SQL SERVER
-  MySQL
-  MongoDB
+  Microsoft SQL SERVER |
+  MySQL |
+  MongoDB |
 
 
 
