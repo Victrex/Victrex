@@ -1,5 +1,5 @@
-Primer proyecto
-- E-commerce básico con HTML y CSS
+<h1> Primer proyecto </h1>
+- E-commerce básico con <b>HTML</b> y <b>CSS</b>
 
 
 
