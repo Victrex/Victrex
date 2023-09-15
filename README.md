@@ -4,7 +4,7 @@
 - 📫 victrex1234@gmail.com
 
 
-Tecgnologies I usually use
+Technologies I usually use
 
 🍕 FrontEnd 
 
