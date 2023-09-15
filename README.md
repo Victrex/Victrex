@@ -1,6 +1,29 @@
 - 👋 Hi, I’m @Victrex
-- 👀 I’m interested in Graphic Design, Web Developer
-- 🌱 I’m currently improving my English and trying to learn something new every day
+- 👀 FullStack Developer
+- 🌱 Trying to improve my English and trying to learn something new every day
 - 📫 victrex1234@gmail.com
+
+
+Tecgnologies I usually use
+
+🍕 FrontEnd
+  JavaScript Vanilla
+  GSAP Library
+  React
+  HTML
+  CSS
+
+
+🔒 BackEnd
+  NodeJS
+  TypeScript
+  Java Springboot
+  Laravel PHP
+
+💣 DataBases
+  Microsoft SQL SERVER
+  MySQL
+  MongoDB
+
 
 
