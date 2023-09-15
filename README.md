@@ -1,4 +1,5 @@
 <h1> Primer proyecto </h1>
+<span>Feb 05, 2022</span>
 - E-commerce básico con <b>HTML</b> y <b>CSS</b>
 
 <h1>
