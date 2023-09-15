@@ -12,7 +12,7 @@ Pagina Principal
 
 
 Pagina del producto
-![Pagina de producto](/images/CAPTURAS/productoCap.png.png)
+![Pagina de producto](/images/CAPTURAS/productoCap.png)
 
 
 Pagina de Contacto
